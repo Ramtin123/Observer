@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1DA5A4EB-CA2F-4055-BD6F-D83FDA2016C2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Endeavour.DomainClasses</RootNamespace>
+    <AssemblyName>Endeavour.DomainClasses</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormBuilder\FieldListType.cs" />
+    <Compile Include="FormBuilder\FieldType.cs" />
+    <Compile Include="FormBuilder\Form.cs" />
+    <Compile Include="FormBuilder\FormField.cs" />
+    <Compile Include="FormBuilder\Reference.cs" />
+    <Compile Include="FormBuilder\WebApiReference.cs" />
+    <Compile Include="Observer\Topic.cs" />
+    <Compile Include="Observer\TopicRecord.cs" />
+    <Compile Include="Observer\TopicRecordDateValue.cs" />
+    <Compile Include="Observer\TopicRecordNumericValue.cs" />
+    <Compile Include="Observer\TopicRecordStringValue.cs" />
+    <Compile Include="Observer\TopicRecordValue.cs" />
+    <Compile Include="Observer\TopicRecordValueReference.cs" />
+    <Compile Include="Observer\TopicSubscription.cs" />
+    <Compile Include="Observer\TopicSuperSubscription.cs" />
+    <Compile Include="Person.cs" />
+    <Compile Include="User.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Endeavour.BaseDataLayer\Endeavour.BaseDataLayer.csproj">
+      <Project>{7a85b734-db94-43dc-9f9a-aa6e7760709f}</Project>
+      <Name>Endeavour.BaseDataLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Endeavour.BaseObject\Endeavour.BaseObject.csproj">
+      <Project>{2f331c68-2181-41b6-9a45-0746fda36bd7}</Project>
+      <Name>Endeavour.BaseObject</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Endeavour.ObjectInterfaces\Endeavour.ObjectInterfaces.csproj">
+      <Project>{4be0c32a-96c5-40fe-a8c7-069696f9f13d}</Project>
+      <Name>Endeavour.ObjectInterfaces</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Observer\ReferenceClasses\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,27 @@
+﻿Restoring NuGet packages...
+To prevent NuGet from restoring packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages during build.'
+1>------ Rebuild All started: Project: Endeavour.ObjectInterfaces, Configuration: Debug Any CPU ------
+1>  Endeavour.ObjectInterfaces -> D:\GitRepos\Observer\Observer\Endeavour.ObjectInterfaces\bin\Debug\Endeavour.ObjectInterfaces.dll
+2>------ Rebuild All started: Project: Endeavour.BaseDataLayer, Configuration: Debug Any CPU ------
+3>------ Rebuild All started: Project: Endeavour.BaseObject, Configuration: Debug Any CPU ------
+2>  Endeavour.BaseDataLayer -> D:\GitRepos\Observer\Observer\Endeavour.BaseDataLayer\bin\Debug\Endeavour.BaseDataLayer.dll
+3>  Endeavour.BaseObject -> D:\GitRepos\Observer\Observer\Endeavour.BaseObject\bin\Debug\Endeavour.BaseObject.dll
+4>------ Rebuild All started: Project: Endeavour.DomainClasses, Configuration: Debug Any CPU ------
+4>D:\GitRepos\Observer\Observer\Endeavour.DomainClasses\FormBuilder\Form.cs(20,20,20,22): warning CS0108: 'Endeavour.DomainClasses.FormBuilder.Form.ID' hides inherited member 'Endeavour.BaseObject.BaseDataObject.ID'. Use the new keyword if hiding was intended.
+4>D:\GitRepos\Observer\Observer\Endeavour.DomainClasses\Observer\Topic.cs(17,20,17,22): warning CS0108: 'Endeavour.DomainClasses.Observer.Topic.ID' hides inherited member 'Endeavour.BaseObject.BaseDataObject.ID'. Use the new keyword if hiding was intended.
+4>D:\GitRepos\Observer\Observer\Endeavour.DomainClasses\Observer\TopicRecord.cs(18,20,18,22): warning CS0108: 'Endeavour.DomainClasses.Observer.TopicRecord.ID' hides inherited member 'Endeavour.BaseObject.BaseDataObject.ID'. Use the new keyword if hiding was intended.
+4>  Endeavour.DomainClasses -> D:\GitRepos\Observer\Observer\Endeavour.DomainClasses\bin\Debug\Endeavour.DomainClasses.dll
+5>------ Rebuild All started: Project: Endeavour.OBSERVERContext, Configuration: Debug Any CPU ------
+6>------ Rebuild All started: Project: Endeavour.RepositoryInterfaces, Configuration: Debug Any CPU ------
+7>------ Rebuild All started: Project: Endeavour.ServiceInterfaces, Configuration: Debug Any CPU ------
+6>  Endeavour.RepositoryInterfaces -> D:\GitRepos\Observer\Observer\Endeavour.RepositoryInterfaces\bin\Debug\Endeavour.RepositoryInterfaces.dll
+7>  Endeavour.ServiceInterfaces -> D:\GitRepos\Observer\Observer\Endeavour.ServiceInterfaces\bin\Debug\Endeavour.ServiceInterfaces.dll
+5>  Endeavour.OBSERVERContext -> D:\GitRepos\Observer\Observer\Endeavour.ObserverContext\bin\Debug\Endeavour.OBSERVERContext.dll
+8>------ Rebuild All started: Project: Endeavour.ServiceLayer, Configuration: Debug Any CPU ------
+8>  Endeavour.ServiceLayer -> D:\GitRepos\Observer\Observer\Endeavour.ServiceLayer\bin\Debug\Endeavour.ServiceLayer.dll
+9>------ Rebuild All started: Project: Endeavour.OBSERVERRepository, Configuration: Debug Any CPU ------
+9>  Endeavour.OBSERVERRepository -> D:\GitRepos\Observer\Observer\Endeavour.ObserverRepository\bin\Debug\Endeavour.OBSERVERRepository.dll
+10>------ Rebuild All started: Project: Endeavour.OBSERVER.UI, Configuration: Debug Any CPU ------
+10>  Endeavour.OBSERVER.UI -> D:\GitRepos\Observer\Observer\Endeavour.OBSERVER.UI\bin\Endeavour.OBSERVER.UI.dll
+========== Rebuild All: 10 succeeded, 0 failed, 0 skipped ==========
+17/04/2014 3:00:09 PM: LESS: Site.less compiled.

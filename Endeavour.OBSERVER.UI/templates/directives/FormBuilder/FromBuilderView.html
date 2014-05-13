@@ -1,0 +1,26 @@
+﻿<div class="well tab-pane active" id="formBuilderTab" >
+    <div>
+        <button class="btn  btn-success" ng-click="addFormField()">Add field <i class="icon-plus" /></button>
+    </div>
+    <div class="well">
+        <div ng-repeat="i in fieldslist" class="row minMedumeHeight">
+            <div class="span1">
+                <strong>{{i.FieldName}}</strong>
+            </div>
+            <div class="span1">
+                {{i.FieldTypeName}}
+            </div>
+            <div class=" offset3 span21">
+                <button class="btn  btn-info btnMedumSize" ng-click="EditFormItem(i)">Edit <i class="icon-edit "></i></button>
+            </div>
+            <div class=" span">
+                <button class="btn  btn-danger btnMedumSize" ng-click="DeleteFormItem(i)">Remove <i class="icon-remove-sign"></i></button>
+            </div>
+        </div>
+
+
+
+
+    </div>
+
+</div>

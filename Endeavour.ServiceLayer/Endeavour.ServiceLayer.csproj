@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{30322000-148A-4268-8607-676346A8B976}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Endeavour.ServiceLayer</RootNamespace>
+    <AssemblyName>Endeavour.ServiceLayer</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormBuilder\FormBuilderService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Observer\TopicService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Endeavour.BaseDataLayer\Endeavour.BaseDataLayer.csproj">
+      <Project>{7a85b734-db94-43dc-9f9a-aa6e7760709f}</Project>
+      <Name>Endeavour.BaseDataLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Endeavour.BaseObject\Endeavour.BaseObject.csproj">
+      <Project>{2f331c68-2181-41b6-9a45-0746fda36bd7}</Project>
+      <Name>Endeavour.BaseObject</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Endeavour.DomainClasses\Endeavour.DomainClasses.csproj">
+      <Project>{1da5a4eb-ca2f-4055-bd6f-d83fda2016c2}</Project>
+      <Name>Endeavour.DomainClasses</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Endeavour.ObjectInterfaces\Endeavour.ObjectInterfaces.csproj">
+      <Project>{4be0c32a-96c5-40fe-a8c7-069696f9f13d}</Project>
+      <Name>Endeavour.ObjectInterfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Endeavour.RepositoryInterfaces\Endeavour.RepositoryInterfaces.csproj">
+      <Project>{64bface9-3b2e-4005-bc88-32afecf36457}</Project>
+      <Name>Endeavour.RepositoryInterfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Endeavour.ServiceInterfaces\Endeavour.ServiceInterfaces.csproj">
+      <Project>{a6fcd114-8637-41ff-a13c-e2a657cfc468}</Project>
+      <Name>Endeavour.ServiceInterfaces</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

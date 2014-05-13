@@ -1,0 +1,95 @@
+﻿<div style="height: 100%" class="row" >
+    <div class="message-header span12">
+        <h3>Search For Topics</h3>
+
+    </div>
+    <div class="progress progress-striped active span12" data-ng-show="isBusy">
+        <div class="bar" style="width: 100%;"></div>
+    </div>
+    <form name="searchTopics" data-ng-submit="Search()" class="span8">
+        <fieldset>
+            <div class="input-append">
+                <input name="searchtopic" type="search" class="span7 search-query " autocomplete="off" placeholder="SEARCH" tabindex="1" data-ng-model="searchstring" />
+
+                <button type="submit" name="edit" class="btn ">
+                    <i class="icon-search icon-large"></i>
+                </button>
+
+
+
+            </div>
+
+        </fieldset>
+    </form>
+    <div class="span8 " data-ng-show="data.topics.length>0">
+        <div class="table-responsive  row">
+            <div class="span4 " data-ng-repeat="i in data.topics">
+                <a href="#/viewtopic/{{i.ID}}" class="btn btn-info linkForGridCell">
+                    <i class="icon-cloud"></i>
+                    <span>
+                        {{i.TopicName}}
+
+                    </span>
+                </a>
+            </div>
+
+            <!--<table class="table table-striped table-bordered table-hover table-condensed">
+                <thead class="widget-header">
+                    <tr>
+                        <th><h5>Topics</h5></th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tr  class="widget-body" >
+                    <td data-ng-repeat="i in data.topics" class="">
+                        <a href="#/viewtopic/{{i.ID}}" class="btn btn-info">
+                            <i class="icon-cloud"></i>
+                            <span>
+                                {{i.TopicName}}
+                                </
+                            </span>
+                        </a>
+                    </td>
+
+
+                </tr>
+
+
+            </table>-->
+        </div>
+        <div data-ng-show="data.topics.length>0">
+            <ul class=" pager">
+
+
+
+                <li>
+                    <button class="btn" data-ng-show="data.Page()!=1" ng-click="Search(data.Page()-1)">&laquo;</button>
+                    <span data-ng-show="data.Page()==1">&laquo;</span>
+                </li>
+
+                <li ng-repeat="i in getPageCountArray()">
+                    <button class="btn " data-ng-show="$index+1!=data.Page()" ng-click="Search($index+1)">  {{$index+1}}   </button>
+                    <span data-ng-show="$index+1==data.Page()">{{$index+1}}</span>
+                </li>
+
+
+                <li>
+                    <button class="btn" data-ng-show="data.Page()!=data.PageCount()" ng-click="Search(data.Page()+1)">&raquo;</button>
+                    <span data-ng-show="data.Page()==data.PageCount()">&raquo;</span>
+
+                </li>
+
+
+            </ul>
+
+
+            <pre>Page: {{data.Page()}} / {{data.PageCount()}}</pre>
+        </div>
+
+    </div>
+</div>
+
+          
+        
+
+    

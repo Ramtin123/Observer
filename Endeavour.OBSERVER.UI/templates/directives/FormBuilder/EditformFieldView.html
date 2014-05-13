@@ -1,0 +1,39 @@
+﻿<div>
+
+    <form name="editFormField" novalidate">
+        <fieldset>
+            <div class="modal-body">
+
+                <div>
+                    <div class="row">
+                        <div class="span2"><label for="FieldName"><strong>Field Name:</strong></label></div>
+                        <div class="span6">
+                            <input type="text" name="FieldName" autocomplete="off" data-ng-model="fieldItem.FieldName" required data-ng-minlength="3" />
+                            <span class="error" data-ng-show="addNewFormField.FieldName.$error.required">*</span>
+                            <span class="error" data-ng-show="addNewFormField.FieldName.$error.minlength">Minimum 3 Characters</span>
+                        </div>
+
+                    </div>
+
+                    <div class="row">
+                        <div class="span2"><label for="fieldIsEditable"><strong>Editable:</strong></label></div>
+
+                        <div class="span6">
+                            <input type="checkbox" name="fieldIsEditable" ng-model="fieldItem.IsEditable" />
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="modal-footer">
+                    <div>
+
+                        <button class="btn btn-primary" data-ng-disabled="editFormField.$invalid" ng-click="ok()">Okay</button>
+                        <button class="btn btn-warning" ng-click="cancel()">Cancel</button>
+                    </div>
+                </div>
+        </fieldset>
+    </form>
+
+
+</div>

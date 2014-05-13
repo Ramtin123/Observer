@@ -1,0 +1,23 @@
+﻿<h3>New Topic</h3>
+ 
+<div>
+    <script type="text/ng-template" id="newTopicView">
+        <form name="newTopicForm" novalidate">
+
+            <fieldset>
+ 
+                <div class="modal-body">
+                    <label for="title" ><strong>Title</strong></label>
+                    <input type="text" name="title" autocomplete="off" data-ng-model="newTopic.topicName" required data-ng-minlength="3" />
+                    <span class="error" data-ng-show="newTopicForm.title.$error.required">*</span>
+                    <span class="error" data-ng-show="newTopicForm.title.$error.minlength">Minimum 3 Characters</span>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-primary" data-ng-disabled="newTopicForm.$invalid" ng-click="ok()">Okay</button>
+                    <button class="btn btn-warning" ng-click="cancel()">Cancel</button>
+                </div>
+
+            </fieldset>
+        </form>
+    </script>
+</div>

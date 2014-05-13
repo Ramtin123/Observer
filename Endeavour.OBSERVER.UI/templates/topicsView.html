@@ -1,0 +1,63 @@
+﻿<!--<div>-->
+
+
+
+<div class="well row">
+    <div class="span2">
+        <h4>{{topic.TopicName}} </h4>
+    </div>
+    <div class="span1">
+        <button class="btn btn-info btnMedumSize" ng-click="editTitle()">Edit  <i class="icon-edit "></i></button>
+    </div>
+</div>
+
+<div class=" well row">
+    <ul class="nav nav-tabs nav-justified">
+        <li class="active">
+            <a href="#formBuilderTab" class="btn btn-block" data-toggle="tab">Form Builder <i class="icon-wrench" /></a>
+
+        </li>
+        <li>
+            <a href="#recordTab" class="btn btn-block" data-toggle="tab">Records</a>
+        </li>
+    </ul>
+
+    <div class="tab-content">
+        <form_builder formid="{{topic.ID}}" />
+        <div class="well tab-pane" id="recordTab">
+            Records
+        </div>
+    </div>
+</div>
+
+<!--Modal pages--------------------------------------------------------------------------------------------->
+<div>
+    <script type="text/ng-template" id="editTopicModalView">
+        <form name="editTopicForm" novalidate">
+
+            <fieldset>
+
+                <div class="modal-body">
+                    <label for="title"><strong>Title</strong></label>
+                    <input type="text" name="title" autocomplete="off" data-ng-model="editTopic.TopicName" required data-ng-minlength="3" />
+
+                    <span class="error" data-ng-show="editTopicForm.TopicName.$error.required">*</span>
+                    <span class="error" data-ng-show="editTopicForm.TopicName.$error.minlength">Minimum 3 Characters</span>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-primary" data-ng-disabled="editTopicForm.$invalid" ng-click="ok()">Okay</button>
+                    <button class="btn btn-warning" ng-click="cancel()">Cancel</button>
+                </div>
+
+            </fieldset>
+        </form>
+    </script>
+</div>
+
+
+
+
+
+
+
+<!-------------------------------------------------------------------------------------------------------->

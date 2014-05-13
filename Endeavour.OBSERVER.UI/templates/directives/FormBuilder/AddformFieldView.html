@@ -1,0 +1,68 @@
+﻿<div>
+
+    <form name="addNewFormField" novalidate">
+        <fieldset>
+            <div class="modal-body">
+
+                <div>
+                    <div class="row">
+                        <div class="span2"><label for="title"><strong>Field Name:</strong></label></div>
+                        <div class="span6">
+                            <input type="text" name="FieldName" autocomplete="off" data-ng-model="addedFormField.FieldName" required data-ng-minlength="3" />
+                            <span class="error" data-ng-show="addNewFormField.FieldName.$error.required">*</span>
+                            <span class="error" data-ng-show="addNewFormField.FieldName.$error.minlength">Minimum 3 Characters</span>
+                        </div>
+
+                    </div>
+
+                    <div>
+                        <div class="row">
+                            <div class="span2"><label for="title"><strong>Field Type:</strong></label></div>
+
+
+                            <div class="span6">
+                                <select ng-model="addedFormField.FieldTypeId" ng-options="x.FieldTypeCode as x.Title for x in data.fieldTypes">
+                                       
+                                 </select>
+                               <span class="error" data-ng-show="addNewFormField.FieldType.$error.required">Please select the field type</span>
+                            </div>
+
+                        </div>
+
+                        <div >
+                           
+                            <div >
+                                
+                            </div>
+
+                    </div>
+                    
+
+                    <div class="row">
+                        <div class="span2"><label for="fieldIsEditable"><strong>Editable:</strong></label></div>
+
+                        <div class="span6">
+                            <input type="checkbox" name="fieldIsEditable" ng-model="addedFormField.IsEditable" />
+                        </div>
+
+                    </div>
+
+
+                </div>
+
+
+
+
+            </div>
+            <div class="modal-footer">
+                <div>
+                    
+                    <button class="btn btn-primary" data-ng-disabled="addNewFormField.$invalid" ng-click="ok()">Okay</button>
+                    <button class="btn btn-warning" ng-click="cancel()">Cancel</button>
+                </div>
+            </div>
+        </fieldset>
+    </form>
+
+
+</div>

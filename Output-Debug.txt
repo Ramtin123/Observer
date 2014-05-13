@@ -1,0 +1,176 @@
+﻿'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\System.Web\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.ApplicationServices\v4.0_4.0.0.0__31bf3856ad364e35\System.Web.ApplicationServices.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: Domain 2): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\System.Web\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.ApplicationServices\v4.0_4.0.0.0__31bf3856ad364e35\System.Web.ApplicationServices.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Caching\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.Caching.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Caching\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.Caching.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.Build.Utilities.v4.0\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.Build.Utilities.v4.0.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.Build.Utilities.v4.0\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.Build.Utilities.v4.0.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.JScript\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.JScript.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.Web.PageInspector.Loader\v4.0_1.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Web.PageInspector.Loader.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.CSharp\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.CSharp.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.Services\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.IdentityModel\v4.0_4.0.0.0__b77a5c561934e089\System.IdentityModel.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Serialization\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Serialization.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel\v4.0_4.0.0.0__b77a5c561934e089\System.ServiceModel.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel.Activation\v4.0_4.0.0.0__31bf3856ad364e35\System.ServiceModel.Activation.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel.Web\v4.0_4.0.0.0__31bf3856ad364e35\System.ServiceModel.Web.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Activities\v4.0_4.0.0.0__31bf3856ad364e35\System.Activities.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel.Activities\v4.0_4.0.0.0__31bf3856ad364e35\System.ServiceModel.Activities.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.WorkflowServices\v4.0_4.0.0.0__31bf3856ad364e35\System.WorkflowServices.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.Extensions\v4.0_4.0.0.0__31bf3856ad364e35\System.Web.Extensions.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Data.DataSetExtensions\v4.0_4.0.0.0__b77a5c561934e089\System.Data.DataSetExtensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.Linq.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.ComponentModel.DataAnnotations\v4.0_4.0.0.0__31bf3856ad364e35\System.ComponentModel.DataAnnotations.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.DynamicData\v4.0_4.0.0.0__31bf3856ad364e35\System.Web.DynamicData.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\be9b52f1\f145659e\assembly\dl3\1431f431\88700666_5a58cf01\Antlr3.Runtime.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\be9b52f1\f145659e\assembly\dl3\49cc9150\08c7a18a_5a58cf01\Endeavour.BaseDataLayer.dll'. Symbols loaded.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\be9b52f1\f145659e\assembly\dl3\bd2824b7\b8fcb68a_5a58cf01\Endeavour.BaseObject.dll'. Symbols loaded.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\be9b52f1\f145659e\assembly\dl3\4c60417c\68f6d58a_5a58cf01\Endeavour.DomainClasses.dll'. Symbols loaded.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\be9b52f1\f145659e\assembly\dl3\a87b2861\2858828a_5a58cf01\Endeavour.ObjectInterfaces.dll'. Symbols loaded.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\be9b52f1\f145659e\assembly\dl3\3f21c78a\1b4a8366_5d58cf01\Endeavour.OBSERVER.UI.dll'. Symbols loaded.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\be9b52f1\f145659e\assembly\dl3\5a5c4a5a\6b5d4166_5d58cf01\Endeavour.OBSERVERContext.dll'. Symbols loaded.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\be9b52f1\f145659e\assembly\dl3\0658cea6\2d165a66_5d58cf01\Endeavour.OBSERVERRepository.dll'. Symbols loaded.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\be9b52f1\f145659e\assembly\dl3\903b84f1\088dfe8a_5a58cf01\Endeavour.RepositoryInterfaces.dll'. Symbols loaded.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\be9b52f1\f145659e\assembly\dl3\e25c4eac\38fb148b_5a58cf01\Endeavour.ServiceInterfaces.dll'. Symbols loaded.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\be9b52f1\f145659e\assembly\dl3\4f4a54f0\b87f338b_5a58cf01\Endeavour.ServiceLayer.dll'. Symbols loaded.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\be9b52f1\f145659e\assembly\dl3\e4bd8eed\58d87366_5a58cf01\EntityFramework.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\be9b52f1\f145659e\assembly\dl3\31296a7f\c8256b66_5a58cf01\EntityFramework.SqlServer.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.Web.Infrastructure\v4.0_1.0.0.0__31bf3856ad364e35\Microsoft.Web.Infrastructure.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\be9b52f1\f145659e\assembly\dl3\4ba53c6b\9833e766_5a58cf01\Newtonsoft.Json.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\be9b52f1\f145659e\assembly\dl3\9c31aa04\48a05b67_5a58cf01\StructureMap.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\be9b52f1\f145659e\assembly\dl3\7a651698\78faa466_5a58cf01\System.Net.Http.Formatting.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\be9b52f1\f145659e\assembly\dl3\030182c7\f8bab966_5a58cf01\System.Web.Helpers.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\be9b52f1\f145659e\assembly\dl3\461278a9\c810ad66_5a58cf01\System.Web.Http.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\be9b52f1\f145659e\assembly\dl3\1bbe2a08\0871b766_5a58cf01\System.Web.Http.WebHost.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\be9b52f1\f145659e\assembly\dl3\7e36a0ab\b87f9466_5a58cf01\System.Web.Mvc.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\be9b52f1\f145659e\assembly\dl3\28947a83\4814a266_5a58cf01\System.Web.Optimization.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\be9b52f1\f145659e\assembly\dl3\58b24b5e\e8d69966_5a58cf01\System.Web.Razor.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\be9b52f1\f145659e\assembly\dl3\9f314661\a868bb66_5a58cf01\System.Web.WebPages.Deployment.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\be9b52f1\f145659e\assembly\dl3\8ec49e47\d84ebe66_5a58cf01\System.Web.WebPages.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\be9b52f1\f145659e\assembly\dl3\1da293ab\28a1bc66_5a58cf01\System.Web.WebPages.Razor.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\be9b52f1\f145659e\assembly\dl3\8553c0fa\78b91767_5a58cf01\WebGrease.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.WebPages.Deployment\v4.0_1.0.0.0__31bf3856ad364e35\System.Web.WebPages.Deployment.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.WebPages.Deployment\v4.0_2.0.0.0__31bf3856ad364e35\System.Web.WebPages.Deployment.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xaml\v4.0_4.0.0.0__b77a5c561934e089\System.Xaml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.Web.PageInspector.Runtime\v4.0_2.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Web.PageInspector.Runtime.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.Web.PageInspector.Tracing\v4.0_2.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Web.PageInspector.Tracing.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.RegularExpressions\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.RegularExpressions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.RegularExpressions\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.RegularExpressions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.Wrapper.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Data.Services.Design\v4.0_4.0.0.0__b77a5c561934e089\System.Data.Services.Design.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\be9b52f1\f145659e\App_global.asax.ycf4hjos.dll'. 
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel.Internals\v4.0_4.0.0.0__31bf3856ad364e35\System.ServiceModel.Internals.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.DurableInstancing\v4.0_4.0.0.0__31bf3856ad364e35\System.Runtime.DurableInstancing.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Security\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Security.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Net.Http\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Net.Http.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.Build.Framework\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.Build.Framework.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\SMDiagnostics\v4.0_4.0.0.0__b77a5c561934e089\SMDiagnostics.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Workflow.ComponentModel\v4.0_4.0.0.0__31bf3856ad364e35\System.Workflow.ComponentModel.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Workflow.Activities\v4.0_4.0.0.0__31bf3856ad364e35\System.Workflow.Activities.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Workflow.Runtime\v4.0_4.0.0.0__31bf3856ad364e35\System.Workflow.Runtime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Data.SqlXml\v4.0_4.0.0.0__b77a5c561934e089\System.Data.SqlXml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Data.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Data.Linq.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xaml.Hosting\v4.0_4.0.0.0__31bf3856ad364e35\System.Xaml.Hosting.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.DataVisualization\v4.0_4.0.0.0__31bf3856ad364e35\System.Web.DataVisualization.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.VisualBasic.Activities.Compiler\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualBasic.Activities.Compiler.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Dynamic\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Dynamic.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'Anonymously Hosted DynamicMethods Assembly'. 
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.Mobile\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.Mobile.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\be9b52f1\f145659e\App_Web_g13gwtc4.dll'. 
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\be9b52f1\f145659e\App_Web_1buscr33.dll'. 
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\be9b52f1\f145659e\App_Web_ymphnvpi.dll'. 
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.Web.PageInspector.HtmlParser\v4.0_2.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Web.PageInspector.HtmlParser.dll'. Cannot find or open the PDB file.
+'iexplore.exe' (Script): Loaded 'Script Code (Windows Internet Explorer)'. 
+Exception was thrown at line 2, column 10357 in http://localhost:5266/Scripts/jquery-2.1.0.min.js
+0x800a139e - JavaScript runtime error: SyntaxError
+Exception was thrown at line 2, column 10571 in http://localhost:5266/Scripts/jquery-2.1.0.min.js
+0x800a139e - JavaScript runtime error: SyntaxError
+Exception was thrown at line 17, column 443 in http://localhost:5266/Scripts/angular.min.js
+0x800a139e - JavaScript runtime error: No module: ngLocale
+Exception was thrown at line 37, column 60610 in http://localhost:9971/4008a3492b764522a811de298b6280fb/browserLink
+0x800a139e - JavaScript runtime error: SyntaxError
+Exception was thrown at line 29, column 9 in http://localhost:5266/Scripts/js/app.js
+0x800a138f - JavaScript runtime error: Unable to get property 'removeAll' of undefined or null reference
+Exception was thrown at line 37, column 60451 in http://localhost:9971/4008a3492b764522a811de298b6280fb/browserLink
+0x800a139e - JavaScript runtime error: SyntaxError
+Exception was thrown at line 37, column 60451 in http://localhost:9971/4008a3492b764522a811de298b6280fb/browserLink
+0x800a139e - JavaScript runtime error: SyntaxError
+Exception was thrown at line 37, column 60451 in http://localhost:9971/4008a3492b764522a811de298b6280fb/browserLink
+0x800a139e - JavaScript runtime error: SyntaxError
+Exception was thrown at line 37, column 60451 in http://localhost:9971/4008a3492b764522a811de298b6280fb/browserLink
+0x800a139e - JavaScript runtime error: SyntaxError
+Exception was thrown at line 37, column 60451 in http://localhost:9971/4008a3492b764522a811de298b6280fb/browserLink
+0x800a139e - JavaScript runtime error: SyntaxError
+Exception was thrown at line 37, column 60451 in http://localhost:9971/4008a3492b764522a811de298b6280fb/browserLink
+0x800a139e - JavaScript runtime error: SyntaxError
+Exception was thrown at line 37, column 60451 in http://localhost:9971/4008a3492b764522a811de298b6280fb/browserLink
+0x800a139e - JavaScript runtime error: SyntaxError
+Exception was thrown at line 37, column 60451 in http://localhost:9971/4008a3492b764522a811de298b6280fb/browserLink
+0x800a139e - JavaScript runtime error: SyntaxError
+Exception was thrown at line 37, column 60451 in http://localhost:9971/4008a3492b764522a811de298b6280fb/browserLink
+0x800a139e - JavaScript runtime error: SyntaxError
+Exception was thrown at line 37, column 60451 in http://localhost:9971/4008a3492b764522a811de298b6280fb/browserLink
+0x800a139e - JavaScript runtime error: SyntaxError
+Exception was thrown at line 37, column 60451 in http://localhost:9971/4008a3492b764522a811de298b6280fb/browserLink
+0x800a139e - JavaScript runtime error: SyntaxError
+Exception was thrown at line 37, column 60451 in http://localhost:9971/4008a3492b764522a811de298b6280fb/browserLink
+0x800a139e - JavaScript runtime error: SyntaxError
+Exception was thrown at line 37, column 60451 in http://localhost:9971/4008a3492b764522a811de298b6280fb/browserLink
+0x800a139e - JavaScript runtime error: SyntaxError
+Exception was thrown at line 37, column 60451 in http://localhost:9971/4008a3492b764522a811de298b6280fb/browserLink
+0x800a139e - JavaScript runtime error: SyntaxError
+Exception was thrown at line 37, column 60451 in http://localhost:9971/4008a3492b764522a811de298b6280fb/browserLink
+0x800a139e - JavaScript runtime error: SyntaxError
+Exception was thrown at line 37, column 60451 in http://localhost:9971/4008a3492b764522a811de298b6280fb/browserLink
+0x800a139e - JavaScript runtime error: SyntaxError
+Exception was thrown at line 37, column 60451 in http://localhost:9971/4008a3492b764522a811de298b6280fb/browserLink
+0x800a139e - JavaScript runtime error: SyntaxError
+Exception was thrown at line 37, column 60451 in http://localhost:9971/4008a3492b764522a811de298b6280fb/browserLink
+0x800a139e - JavaScript runtime error: SyntaxError
+Exception was thrown at line 37, column 60451 in http://localhost:9971/4008a3492b764522a811de298b6280fb/browserLink
+0x800a139e - JavaScript runtime error: SyntaxError
+Exception was thrown at line 37, column 60451 in http://localhost:9971/4008a3492b764522a811de298b6280fb/browserLink
+0x800a139e - JavaScript runtime error: SyntaxError
+Exception was thrown at line 37, column 60451 in http://localhost:9971/4008a3492b764522a811de298b6280fb/browserLink
+0x800a139e - JavaScript runtime error: SyntaxError
+Exception was thrown at line 37, column 60451 in http://localhost:9971/4008a3492b764522a811de298b6280fb/browserLink
+0x800a139e - JavaScript runtime error: SyntaxError
+Exception was thrown at line 37, column 60451 in http://localhost:9971/4008a3492b764522a811de298b6280fb/browserLink
+0x800a139e - JavaScript runtime error: SyntaxError
+Exception was thrown at line 37, column 60451 in http://localhost:9971/4008a3492b764522a811de298b6280fb/browserLink
+0x800a139e - JavaScript runtime error: SyntaxError
+Exception was thrown at line 37, column 60451 in http://localhost:9971/4008a3492b764522a811de298b6280fb/browserLink
+0x800a139e - JavaScript runtime error: SyntaxError
+Exception was thrown at line 29, column 9 in http://localhost:5266/Scripts/js/app.js
+0x800a138f - JavaScript runtime error: Unable to get property 'removeAll' of undefined or null reference
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Numerics\v4.0_4.0.0.0__b77a5c561934e089\System.Numerics.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\System.Data.OracleClient\v4.0_4.0.0.0__b77a5c561934e089\System.Data.OracleClient.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/24/ROOT-1-130420073032570802): Loaded 'EntityFrameworkDynamicProxies-Endeavour.DomainClasses'. 
+Exception was thrown at line 29, column 9 in http://localhost:5266/Scripts/js/app.js
+0x800a138f - JavaScript runtime error: Unable to get property 'removeAll' of undefined or null reference
+Exception was thrown at line 29, column 9 in http://localhost:5266/Scripts/js/app.js
+0x800a138f - JavaScript runtime error: Unable to get property 'removeAll' of undefined or null reference
+'iexplore.exe' (Script): Loaded 'Script Code (Windows Internet Explorer)'. 
+The thread 0x2da4 has exited with code 259 (0x103).
+The thread 0x2da8 has exited with code 259 (0x103).
+The thread 0x2dac has exited with code 259 (0x103).
+The thread 0x2c48 has exited with code 259 (0x103).
+The program '[11128] iexplore.exe' has exited with code 0 (0x0).
+The program '[4244] iisexpress.exe: Program Trace' has exited with code 0 (0x0).
+The program '[4244] iisexpress.exe' has exited with code 0 (0x0).
